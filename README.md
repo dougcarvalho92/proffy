@@ -21,10 +21,6 @@
 
 O Proffy é uma plataforma feita para conectar alunos e professores, desenvolvida durante a Next Level Week #2 da [Rocketseat](https://rocketseat.com.br/).
 
-<p align="center">
-  <img src=".github/landing.png" alt="Página inicial">
-</p>
-
 <br>
 
 ## Tecnologias
